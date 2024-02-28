@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="TestNG.DataDrivenTesting.ReadData"/>
-      <class name="TestNG.DataDrivenTesting.WriteData"/>
+      <class name="TestNG.DataDrivenTesting.ReadExcel"/>
+      <class name="TestNG.DataDrivenTesting.WriteExcel"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
